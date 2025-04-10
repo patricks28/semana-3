@@ -1,0 +1,7 @@
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\bin\Debug\Descarga de un archivo.exe.config
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\bin\Debug\Descarga de un archivo.exe
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\bin\Debug\Descarga de un archivo.pdb
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\obj\Debug\Descarga de un archivo.csproj.AssemblyReference.cache
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\obj\Debug\Descarga de un archivo.csproj.CoreCompileInputs.cache
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\obj\Debug\Descarga de un archivo.exe
+C:\Users\achun\source\repos\semana 3\Cálculo del Tiempo de Descarga de un Archivo\Descarga de un archivo\obj\Debug\Descarga de un archivo.pdb
