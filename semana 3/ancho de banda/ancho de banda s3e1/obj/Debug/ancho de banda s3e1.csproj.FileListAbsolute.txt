@@ -1,0 +1,7 @@
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\bin\Debug\ancho de banda s3e1.exe.config
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\bin\Debug\ancho de banda s3e1.exe
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\bin\Debug\ancho de banda s3e1.pdb
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\obj\Debug\ancho de banda s3e1.csproj.AssemblyReference.cache
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\obj\Debug\ancho de banda s3e1.csproj.CoreCompileInputs.cache
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\obj\Debug\ancho de banda s3e1.exe
+C:\Users\achun\source\repos\semana 3\ancho de banda\ancho de banda s3e1\obj\Debug\ancho de banda s3e1.pdb
