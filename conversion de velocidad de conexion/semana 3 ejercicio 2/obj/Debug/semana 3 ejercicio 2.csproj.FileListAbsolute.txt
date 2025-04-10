@@ -1,0 +1,7 @@
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\bin\Debug\semana 3 ejercicio 2.exe.config
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\bin\Debug\semana 3 ejercicio 2.exe
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\bin\Debug\semana 3 ejercicio 2.pdb
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\obj\Debug\semana 3 ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\obj\Debug\semana 3 ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\obj\Debug\semana 3 ejercicio 2.exe
+C:\Users\achun\source\repos\semana 3\conversion de velocidad de conexion\semana 3 ejercicio 2\obj\Debug\semana 3 ejercicio 2.pdb
